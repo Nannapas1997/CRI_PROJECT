@@ -79,15 +79,17 @@ body {
   font-size: 1.3rem !important;
 }
 .css-113d811-MuiFormLabel-root-MuiInputLabel-root.Mui-disabled{
+  font-family: 'Prompt', sans-serif !important;
   margin-top: 1rem;
   font-size: 1.3rem;
 }
 .css-1xp5r68-MuiFormControl-root-MuiTextField-root{
+  font-family: 'Prompt', sans-serif !important;
   margin-top: 1rem !important;
   font-size: 1.3rem !important;
 }
 .css-113d811-MuiFormLabel-root-MuiInputLabel-root {
-  margin-top: 1rem !important;
+  font-family: 'Prompt', sans-serif !important;
   font-size: 1.3rem !important;
 }
 .dialog__content__scroll {

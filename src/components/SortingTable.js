@@ -333,7 +333,7 @@ function SortingTable() {
                                         defaultValue="Web Development"
                                     />
                                 </div>
-                                <p class="experience__text">Experience</p>
+                                <p className="experience__text">Experience</p>
                                 <div className='grid grid-cols-1 md:grid-cols-2 gap-4 lg:grid-cols-2 gap-6'>
                                     <TextField
                                         disabled
