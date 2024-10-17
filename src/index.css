@@ -64,6 +64,48 @@ body {
   font-size: 25px;
   padding-right: 15px;
 }
+.css-rvoa5x-MuiTypography-root-MuiDialogTitle-root {
+  font-family: 'Prompt', sans-serif !important;
+  font-size: 2rem !important;
+  text-align: center;
+}
+.close__large__icon {
+  color: #072482;
+  font-size: 25px;
+}
+.css-quhxjy-MuiInputBase-root-MuiOutlinedInput-root {
+  font-family: 'Prompt', sans-serif !important;
+  margin-top: 1rem;
+  font-size: 1.3rem !important;
+}
+.css-113d811-MuiFormLabel-root-MuiInputLabel-root.Mui-disabled{
+  margin-top: 1rem;
+  font-size: 1.3rem;
+}
+.css-1xp5r68-MuiFormControl-root-MuiTextField-root{
+  margin-top: 1rem !important;
+  font-size: 1.3rem !important;
+}
+.css-113d811-MuiFormLabel-root-MuiInputLabel-root {
+  margin-top: 1rem !important;
+  font-size: 1.3rem !important;
+}
+.dialog__content__scroll {
+  max-height: 500px;
+  overflow-y: auto;
+}
+.experience__text {
+  font-family: 'Prompt', sans-serif !important;
+  font-size: 2rem !important;
+  text-align: center;
+  padding: 66px 24px;
+  font-weight: 500;
+}
+.button__contained {
+  background-color: #072482 !important;
+  padding: 10px 40px !important;
+  font-family: 'Prompt' !important;
+}
 @media screen and (max-width: 1279px) {
   .width__outline {
     width: 100%;
